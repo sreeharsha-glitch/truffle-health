@@ -1,4 +1,4 @@
-# Truffle Health Frontend (React) Assessment
+# Truffle Health Frontend (React)
 
 The following assumptions and implementations were made based on task details and design files provided:
 
